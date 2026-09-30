@@ -10,7 +10,7 @@
 Kıvılcım'ı yapıyorum: küçük görevleri alev alev bir seriye dönüştüren bir alışkanlık uygulaması. Hesap istemez, sunucusu yoktur; kayıtlar cihazda kalır. Windows, Mac, Linux ve Android'de çalışıyor; iPhone sürümü yolda.
 
 <a href="https://yigit2015.github.io/kivilcim-indir/#indir"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-indir-dark.png"><img src="assets/btn-indir-light.png" height="44" alt="Kıvılcım'ı indir"></picture></a>&nbsp;
-<a href="https://claude.ai/artifact/Xjzge8CMprANM8s2r9yocx"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-web-dark.png"><img src="assets/btn-web-light.png" height="44" alt="Tarayıcıda dene"></picture></a>&nbsp;
+<a href="https://yigit2015.github.io/kivilcim-indir/uygulama/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-web-dark.png"><img src="assets/btn-web-light.png" height="44" alt="Tarayıcıda dene"></picture></a>&nbsp;
 <a href="https://github.com/yigit2015/kivilcim-indir/releases/latest"><img src="https://img.shields.io/github/v/release/yigit2015/kivilcim-indir?label=son%20s%C3%BCr%C3%BCm&color=FF7A1A&style=flat-square" height="20" alt="Son sürüm"></a>
 
 <br>
