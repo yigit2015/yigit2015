@@ -1,24 +1,18 @@
 <div align="center">
 
-<a href="https://yigit2015.github.io/kivilcim-indir/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Kıvılcım: Küçük görevler, büyüyen bir alev. Ücretsiz, oyunlaştırılmış alışkanlık uygulaması.">
-</picture></a>
+<a href="https://yigit2015.github.io/kivilcim-indir/"><img src="assets/hero-dark.svg" width="100%" alt="Kıvılcım: Küçük görevler, büyüyen bir alev. Ücretsiz, oyunlaştırılmış alışkanlık uygulaması."></a>
 
 </div>
 
 Kıvılcım'ı yapıyorum: küçük görevleri alev alev bir seriye dönüştüren bir alışkanlık uygulaması. Hesap istemez, sunucusu yoktur; kayıtlar cihazda kalır. Windows, Mac, Linux ve Android'de çalışıyor; iPhone sürümü yolda.
 
-<a href="https://yigit2015.github.io/kivilcim-indir/#indir"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-indir-dark.png"><img src="assets/btn-indir-light.png" height="44" alt="Kıvılcım'ı indir"></picture></a>&nbsp;
-<a href="https://yigit2015.github.io/kivilcim-indir/uygulama/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-web-dark.png"><img src="assets/btn-web-light.png" height="44" alt="Tarayıcıda dene"></picture></a>&nbsp;
+<a href="https://yigit2015.github.io/kivilcim-indir/#indir"><img src="assets/btn-indir-dark.png" height="44" alt="Kıvılcım'ı indir"></a>&nbsp;
+<a href="https://yigit2015.github.io/kivilcim-indir/uygulama/"><img src="assets/btn-web-dark.png" height="44" alt="Tarayıcıda dene"></a>&nbsp;
 <a href="https://github.com/yigit2015/kivilcim-indir/releases/latest"><img src="https://img.shields.io/github/v/release/yigit2015/kivilcim-indir?label=son%20s%C3%BCr%C3%BCm&color=FF7A1A&style=flat-square" height="20" alt="Son sürüm"></a>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/showcase-dark.webp">
-  <img src="assets/showcase-light.webp" width="100%" alt="Kıvılcım masaüstünde kenar çubuklu geniş düzenle, telefonda Bugün, Macera ve Günü kapat ekranlarıyla.">
-</picture>
+<img src="assets/showcase-dark.webp" width="100%" alt="Kıvılcım masaüstünde kenar çubuklu geniş düzenle, telefonda Bugün (görev yörüngesi), Macera ve Günü kapat ekranlarıyla.">
 
 ## Kıvılcım'ın kuralları
 
