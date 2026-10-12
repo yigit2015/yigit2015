@@ -52,9 +52,9 @@ Kıvılcım'ı yapıyorum: küçük görevleri alev alev bir seriye dönüştür
 
 ## AI Odası
 
-AI Odası'nı da yapıyorum: birden çok yapay zekâyı tek ekranda birlikte çalıştıran bir ekip odası. Bir şef işi dağıtır, yardımcılar yazar, bir hakem her cevabı puanlar; kimin ne yaptığı ve ne harcadığı canlı görünür. Kendi API anahtarlarınla, kendi bilgisayarında çalışır.
+AI Odası'nı da yapıyorum: birden çok yapay zekâyı tek ekranda birlikte çalıştıran bir ekip odası. Bir şef işi dağıtır, yardımcılar yazar, bir hakem her cevabı puanlar; kimin ne yaptığı ve ne harcadığı canlı görünür. Kendi API anahtarınla, kendi seçtiğin yapay zekâları eklersin; her şey kendi bilgisayarında çalışır.
 
-<img src="assets/ai-odasi-vitrin.webp" width="100%" alt="AI Odası'nın ana ekranı: solda kayıtlı odalar, ortada şefin yazdığı sonuç kartı, sağda beş yapay zekânın bugünkü token sayısıyla durduğu ekip panosu.">
+<a href="https://yigit2015.github.io/ai-odasi/"><img src="assets/ai-odasi-vitrin.webp" width="100%" alt="AI Odası'nın ana ekranı: solda kayıtlı odalar, ortada şefin yazdığı sonuç kartı, sağda beş yapay zekânın bugünkü token sayısıyla durduğu ekip panosu."></a>
 
 <sub>Görüntü uygulamanın anahtarsız deneme modunda çekildi; içindeki cevaplar örnek metindir.</sub>
 
@@ -85,7 +85,10 @@ AI Odası'nı da yapıyorum: birden çok yapay zekâyı tek ekranda birlikte ça
   </tr>
 </table>
 
-Henüz herkese açık değil; tanıtım sitesi hazırlanıyor.
+### Nerede
+
+- **Tanıtım sitesi:** [yigit2015.github.io/ai-odasi](https://yigit2015.github.io/ai-odasi/)
+- **Kaynak kodu ve kurulum:** [ai-odasi](https://github.com/yigit2015/ai-odasi) deposu, MIT lisanslı
 
 ## Nasıl yapılıyor
 
