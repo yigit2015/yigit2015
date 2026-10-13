@@ -8,13 +8,13 @@
 
 Kıvılcım'ı yapıyorum: küçük görevleri alev alev bir seriye dönüştüren bir alışkanlık uygulaması. Hesap istemez, sunucusu yoktur; kayıtlar cihazda kalır. Windows, Mac, Linux ve Android'de çalışıyor; iPhone sürümü yolda.
 
-<a href="https://yigit2015.github.io/kivilcim-indir/#indir"><img src="assets/btn-indir-dark.png" height="44" alt="Kıvılcım'ı indir"></a>&nbsp;
-<a href="https://yigit2015.github.io/kivilcim-indir/uygulama/"><img src="assets/btn-web-dark.png" height="44" alt="Tarayıcıda dene"></a>&nbsp;
+<a href="https://kivilcimapp.com/#indir"><img src="assets/btn-indir-dark.png" height="44" alt="Kıvılcım'ı indir"></a>&nbsp;
+<a href="https://kivilcimapp.com/uygulama/"><img src="assets/btn-web-dark.png" height="44" alt="Tarayıcıda dene"></a>&nbsp;
 <a href="https://github.com/yigit2015/kivilcim-indir/releases/latest"><img src="https://img.shields.io/github/v/release/yigit2015/kivilcim-indir?label=son%20s%C3%BCr%C3%BCm&color=FF7A1A&style=flat-square" height="20" alt="Son sürüm"></a>
 
 <br>
 
-<a href="https://yigit2015.github.io/kivilcim-indir/"><img src="assets/showcase-dark.webp" width="100%" alt="Kıvılcım masaüstünde kenar çubuklu geniş düzenle, telefonda Bugün (görev yörüngesi), Macera ve Günü kapat ekranlarıyla."></a>
+<a href="https://kivilcimapp.com/"><img src="assets/showcase-dark.webp" width="100%" alt="Kıvılcım masaüstünde kenar çubuklu geniş düzenle, telefonda Bugün (görev yörüngesi), Macera ve Günü kapat ekranlarıyla."></a>
 
 ### Kıvılcım'ın kuralları
 
@@ -45,10 +45,10 @@ Kıvılcım'ı yapıyorum: küçük görevleri alev alev bir seriye dönüştür
 
 ### Nerede
 
-- **Tanıtım sitesi:** [yigit2015.github.io/kivilcim-indir](https://yigit2015.github.io/kivilcim-indir/)
+- **Tanıtım sitesi:** [kivilcimapp.com](https://kivilcimapp.com/)
 - **İndirmeler:** [kivilcim-indir](https://github.com/yigit2015/kivilcim-indir) deposunun [Releases](https://github.com/yigit2015/kivilcim-indir/releases) sayfası
-- **Sürüm notları:** [her sürümde ne değişti](https://yigit2015.github.io/kivilcim-indir/surumler/)
-- **Destek:** [sık sorulanlar](https://yigit2015.github.io/kivilcim-indir/destek/) ya da destekkivilcim@gmail.com
+- **Sürüm notları:** [her sürümde ne değişti](https://kivilcimapp.com/surumler/)
+- **Destek:** [sık sorulanlar](https://kivilcimapp.com/destek/) ya da destekkivilcim@gmail.com
 
 ## AI Odası
 
